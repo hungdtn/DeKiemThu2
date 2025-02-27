@@ -1,0 +1,52 @@
+<component name="libraryTable">
+  <library name="Maven: jakarta.servlet:jakarta.servlet-api:5.0.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/servlet/jakarta.servlet-api/5.0.0/jakarta.servlet-api-5.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/servlet/jakarta.servlet-api/5.0.0/jakarta.servlet-api-5.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/servlet/jakarta.servlet-api/5.0.0/jakarta.servlet-api-5.0.0-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/auto-service-annotations-1.1.1-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/byte-buddy-1.15.11-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/checker-qual-3.21.2-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/commons-exec-1.4.0-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/error_prone_annotations-2.36.0-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/failureaccess-1.0.2-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/guava-33.4.0-jre-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/j2objc-annotations-3.0.0-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/jspecify-1.0.0-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/jsr305-3.0.2-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/opentelemetry-api-1.46.0-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/opentelemetry-api-incubator-1.46.0-alpha-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/opentelemetry-context-1.46.0-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/opentelemetry-exporter-logging-1.46.0-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/opentelemetry-sdk-1.46.0-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/opentelemetry-sdk-common-1.46.0-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/opentelemetry-sdk-extension-autoconfigure-1.46.0-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/opentelemetry-sdk-extension-autoconfigure-spi-1.46.0-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/opentelemetry-sdk-logs-1.46.0-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/opentelemetry-sdk-metrics-1.46.0-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/opentelemetry-sdk-trace-1.46.0-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/opentelemetry-semconv-1.28.0-alpha-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/selenium-api-4.28.1-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/selenium-chrome-driver-4.28.1-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/selenium-chromium-driver-4.28.1-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/selenium-devtools-v85-4.28.1-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/selenium-devtools-v130-4.28.1-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/selenium-devtools-v131-4.28.1-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/selenium-devtools-v132-4.28.1-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/selenium-edge-driver-4.28.1-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/selenium-firefox-driver-4.28.1-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/selenium-http-4.28.1-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/selenium-ie-driver-4.28.1-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/selenium-json-4.28.1-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/selenium-manager-4.28.1-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/selenium-os-4.28.1-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/selenium-remote-driver-4.28.1-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/selenium-safari-driver-4.28.1-sources.jar!/" />
+      <root url="jar://E:/Season5/Half1/Kiểm Thử Nâng Cao/selenium-support-4.28.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
